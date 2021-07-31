@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Memory Master</string>
+    <string name="Winner">Winner!!</string>
+    <string name="InvalidMove">Invalid Move!!</string>
+    <string name="youWon">You won the game before!!</string>
+    <string name="startNew">Satrt a new game?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="quit">Quit your current game?</string>
+    <string name="choose">Choose Size</string>
+    <string name="easy">Easy 4 / 2</string>
+    <string name="medium">Medium 6 / 3</string>
+    <string name="hard">Hard 6 / 4</string>
+    <string name="nightmare">Nightmare 9 / 5</string>
+    <string name="hell">Hell 10 / 6</string>
+</resources>
